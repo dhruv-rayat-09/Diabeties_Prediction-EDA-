@@ -40,5 +40,4 @@ To run this project, you'll need to install the following Python libraries:
 - scikit-learn
 - imbalanced-learn
 
-You can install these dependencies using:
 
